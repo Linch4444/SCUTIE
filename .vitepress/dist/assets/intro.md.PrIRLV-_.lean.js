@@ -1,0 +1,1 @@
+import{_ as r,o as t,c as e,ae as o}from"./chunks/framework.DOMWd-jj.js";const c=JSON.parse('{"title":"工业工程·入门必读","description":"","frontmatter":{},"headers":[],"relativePath":"intro.md","filePath":"intro.md"}'),l={name:"intro.md"};function i(n,a,s,h,d,p){return t(),e("div",null,[...a[0]||(a[0]=[o("",32)])])}const g=r(l,[["render",i]]);export{c as __pageData,g as default};
