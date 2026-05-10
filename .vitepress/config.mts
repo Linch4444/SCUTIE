@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/IEhandbook888/',
+  base: '/SCUTIE/',
   title: "🛠️华工工工-生存手册",
   description: "华南理工工业工程生存指北,专为华南理工大学工业工程专业学生打造的生存手册,提供课程推荐、生活指南、实习经验等实用信息,帮助IEers顺利度过大学生活",
   themeConfig: {
